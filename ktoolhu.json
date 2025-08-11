@@ -1,4 +1,7 @@
 {
-  "load_package_once": true,
-  "path": "$HOUDINI_PACKAGE_PATH/../ktoolhu-master"
+  "load_package_once" : true,
+  "hpath" : [
+    "$HOUDINI_PACKAGE_PATH/../ktoolhu-master",
+    "$HOUDINI_PACKAGE_PATH/../ktoolhu"
+  ]
 }
